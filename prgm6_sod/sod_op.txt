@@ -1,0 +1,6 @@
+[Nidhin@dbcpc12 C Programming]$ cc sod.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter a number 
+3256
+ The total sum of 3256 is = 16[Nidhin@dbcpc12 C Programming]$ 
+

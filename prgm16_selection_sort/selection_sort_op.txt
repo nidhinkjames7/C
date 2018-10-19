@@ -1,0 +1,30 @@
+[Nidhin@dbcpc12 C Programming]$ vi selection_sort.c
+[Nidhin@dbcpc12 C Programming]$ cc selection_sort.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter the limit
+10
+enter the elements
+5
+12
+64
+31
+21
+2
+1
+0
+5
+4
+sorted list
+0
+1
+2
+4
+5
+5
+12
+21
+31
+64
+[Nidhin@dbcpc12 C Programming]$ 
+
+

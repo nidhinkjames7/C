@@ -1,0 +1,19 @@
+[Nidhin@dbcpc12 C Programming]$ vi goto.c
+[Nidhin@dbcpc12 C Programming]$ cc goto.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter the limit
+10
+enter the elements
+11
+23
+45
+10
+1
+2
+6
+7
+5
+7
+average=11.000000[Nidhin@dbcpc12 C Programming]$ 
+
+

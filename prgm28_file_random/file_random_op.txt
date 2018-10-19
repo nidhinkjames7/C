@@ -1,0 +1,30 @@
+[Nidhin@dbcpc12 C Programming]$ cc file_random.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+Enter the number of employees
+3  
+Enter empno,name and salary  3 employees
+100
+Nidhin
+30000
+101
+Sayooj
+45000
+102
+Jaison
+35000
+Contents of the file emp.txt
+100	Nidhin	30000.000000	
+101	Sayooj	45000.000000	
+102	Jaison	35000.000000	
+Enter recno of the record to be updated
+2    
+Enter new details of the employee
+101
+Ramees
+40000
+Contents of the file emp.txt
+100	Nidhin	30000.000000	
+101	Ramees	40000.000000	
+102	Jaison	35000.000000	
+[Nidhin@dbcpc12 C Programming]$ 
+

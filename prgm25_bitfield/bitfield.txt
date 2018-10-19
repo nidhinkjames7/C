@@ -1,0 +1,8 @@
+[Nidhin@dbcpc12 C Programming]$ vi bitfield.c
+[Nidhin@dbcpc12 C Programming]$ cc bitfield.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+4	1	sum=5
+difference=3
+product=4
+[Nidhin@dbcpc12 C Programming]$ 
+

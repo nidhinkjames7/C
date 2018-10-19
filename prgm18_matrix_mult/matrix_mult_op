@@ -1,0 +1,36 @@
+[Nidhin@dbcpc12 C Programming]$ vi matrix_mult.c
+[Nidhin@dbcpc12 C Programming]$ cc matrix_mult.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter the row and column of first matrix
+2
+2
+enter the row and column of second matrix
+2
+2
+enter the values of first matrix
+1
+2
+1 2
+enter the values of second matrix
+2 1
+2 1
+6	3	
+6	3	
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter the row and column of first matrix
+2
+3
+enter the row and column of second matrix
+3
+2
+enter the values of first matrix
+1 2 3
+4 5 6
+enter the values of second matrix
+1 2
+3 4
+5 6
+22	28	
+49	64	
+[Nidhin@dbcpc12 C Programming]$ 
+

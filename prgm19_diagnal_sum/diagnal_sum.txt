@@ -1,0 +1,25 @@
+[Nidhin@dbcpc12 C Programming]$ cc diagnal_sum.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter the row size
+2
+enter the column size
+2
+enter the values of the matrix
+1 2
+1 2
+the matrix is
+1	2	
+1	2	
+the sum of trace or principle diagonal elements is =3
+the sum of diagnal elements= 3 
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter the row size
+2
+enter the column size
+3
+not possible
+[Nidhin@dbcpc12 C Programming]$ 
+
+
+
+

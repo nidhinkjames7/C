@@ -1,0 +1,33 @@
+[Nidhin@dbcpc12 C Programming]$ vi grade.c
+[Nidhin@dbcpc12 C Programming]$ cc grade.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter marks of three subject
+85
+75
+65
+
+The Total mark is 225
+ 
+The average is 75
+ B+ grade
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter marks of three subject
+90
+92
+94
+
+The Total mark is 276
+ 
+The average is 92
+ A+ grade[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter marks of three subject
+28
+32
+26
+
+The Total mark is 86
+ 
+The average is 28
+ failed 
+[Nidhin@dbcpc12 C Programming]$ 
+

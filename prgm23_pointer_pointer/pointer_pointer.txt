@@ -1,0 +1,13 @@
+[Nidhin@dbcpc12 C Programming]$ vi pointer_pointer.c
+[Nidhin@dbcpc12 C Programming]$ cc pointer_pointer.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter two numbers
+10
+5
+sum=15
+difference=5
+product=50
+division=2
+[Nidhin@dbcpc12 C Programming]$ 
+
+

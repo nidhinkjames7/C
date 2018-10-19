@@ -1,0 +1,33 @@
+[Nidhin@dbcpc12 C Programming]$ cc fun_prime.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter a number 
+3
+
+3  is prime
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter a number 
+5
+
+5  is prime
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter a number 
+10   
+
+10 is not prime
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter a number 
+9
+
+9 is not prime
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter a number 
+2
+
+2  is prime
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter a number 
+15
+
+15 is not prime
+[Nidhin@dbcpc12 C Programming]$ 
+

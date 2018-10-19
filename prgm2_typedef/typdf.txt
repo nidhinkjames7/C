@@ -1,0 +1,8 @@
+[Nidhin@dbcpc12 C Programming]$ cc typdf.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+Enter p,n,r:
+20 
+10
+5
+simple interest is = 10.000000[Nidhin@dbcpc12 C Programming]$ 
+

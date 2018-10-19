@@ -1,0 +1,18 @@
+[Nidhin@dbcpc12 C Programming]$ cc sum_avg_1D.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+Enter the limit of the array
+10
+Enter the values to the array
+5
+12
+45
+132
+4
+1
+25
+10
+2
+4
+the sum is 240 	 average is 24.000000
+[Nidhin@dbcpc12 C Programming]$ 
+

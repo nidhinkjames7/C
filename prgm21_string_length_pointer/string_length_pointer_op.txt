@@ -1,0 +1,13 @@
+[Nidhin@dbcpc12 C Programming]$ cc string_length_pointer.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter the string 
+Nidhin
+string is Nidhin
+the length of the string is 6 
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter the string 
+asdfghjkl
+string is asdfghjkl
+the length of the string is 9 
+[Nidhin@dbcpc12 C Programming]$ 
+

@@ -1,0 +1,15 @@
+[Nidhin@dbcpc12 C Programming]$ cc enum.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter marks of 4 subject
+95
+98
+92
+88
+marks in different subjects are
+malayalam=95
+ english=98
+ computer=92
+ maths=88
+[Nidhin@dbcpc12 C Programming]$ 
+
+

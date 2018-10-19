@@ -1,0 +1,23 @@
+[Nidhin@dbcpc12 C Programming]$ vi string_operation.c
+[Nidhin@dbcpc12 C Programming]$ cc string_operation.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter the string
+hello
+the length of the string hello is 5
+enter the first string 
+hello
+enter the second string 
+world
+the copied string is hello
+enter the first string
+hello
+enter the second string 
+world
+the strings are not equal
+enter the first string
+hello
+enter the second string 
+world
+the concatinated string is helloworld
+[Nidhin@dbcpc12 C Programming]$ 
+

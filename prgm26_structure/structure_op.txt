@@ -1,0 +1,102 @@
+[Nidhin@dbcpc12 C Programming]$ cc structure.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+***Please Enter ur Option***
+ 1.Insert
+ 2.View
+ 3.Search
+ 4.Delete
+1
+*** INSERTION ***
+enter the number of employees to be inserted
+2
+*** enter the details ***
+ enter id
+ enter the name
+ enter the salary
+101
+Nidhin
+10000
+102
+Sobin
+20000
+do you want to continue (1 or 0)
+1
+***Please Enter ur Option***
+ 1.Insert
+ 2.View
+ 3.Search
+ 4.Delete
+2
+*** DETAILS ***
+emp id=101
+ emp name=Nidhin
+ emp salary=10000.000000
+emp id=102
+ emp name=Sobin
+ emp salary=20000.000000
+do you want to continue (1 or 0)
+1
+***Please Enter ur Option***
+ 1.Insert
+ 2.View
+ 3.Search
+ 4.Delete
+3
+*** SEARCHING ***
+enter the id to be searched
+101
+id found the deatils of the employee is id=101
+ name=Nidhin 
+ salary=10000.000000
+do you want to continue (1 or 0)
+1
+***Please Enter ur Option***
+ 1.Insert
+ 2.View
+ 3.Search
+ 4.Delete
+4
+*** DELETION ***
+enter the name to be deleted
+Nidhin
+deleted
+do you want to continue (1 or 0)
+1
+***Please Enter ur Option***
+ 1.Insert
+ 2.View
+ 3.Search
+ 4.Delete
+2
+*** DETAILS ***
+emp id=102
+ emp name=Sobin
+ emp salary=20000.000000
+do you want to continue (1 or 0)
+1
+***Please Enter ur Option***
+ 1.Insert
+ 2.View
+ 3.Search
+ 4.Delete
+3
+*** SEARCHING ***
+enter the id to be searched
+101
+id not found... plzz type another
+do you want to continue (1 or 0)
+1
+***Please Enter ur Option***
+ 1.Insert
+ 2.View
+ 3.Search
+ 4.Delete
+4
+*** DELETION ***
+enter the name to be deleted
+101
+Not found
+do you want to continue (1 or 0)
+0
+[Nidhin@dbcpc12 C Programming]$ 
+

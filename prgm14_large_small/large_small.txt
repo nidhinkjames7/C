@@ -1,0 +1,26 @@
+[Nidhin@dbcpc12 C Programming]$ vi large_small.c
+[Nidhin@dbcpc12 C Programming]$ cc large_small.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter the size of the array
+5
+enter the values
+10
+5
+3
+1
+9
+smallest is 1
+largest is 10
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter the size of the array
+5
+enter the values
+13
+485
+51
+32
+1
+smallest is 1
+largest is 485
+[Nidhin@dbcpc12 C Programming]$ 
+

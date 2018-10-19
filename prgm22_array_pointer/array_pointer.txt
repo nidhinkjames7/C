@@ -1,0 +1,17 @@
+[Nidhin@dbcpc12 C Programming]$ cc array_pointer.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter the limi
+5
+enter the names
+Nidhin
+Sayooj
+Jaison
+Ramees
+Alan
+Alan
+Jaison
+Nidhin
+Ramees
+Sayooj
+[Nidhin@dbcpc12 C Programming]$ 
+

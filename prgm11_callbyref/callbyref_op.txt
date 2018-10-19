@@ -1,0 +1,11 @@
+[Nidhin@dbcpc12 C Programming]$ vi callbyref.c
+[Nidhin@dbcpc12 C Programming]$ cc callbyref.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter two values
+10
+5
+
+ using call by reference:
+The swapped values are:
+5	10[Nidhin@dbcpc12 C Programming]$ 
+

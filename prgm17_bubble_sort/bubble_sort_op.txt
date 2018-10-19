@@ -1,0 +1,20 @@
+[Nidhin@dbcpc12 C Programming]$ vi bubble_sort.c
+[Nidhin@dbcpc12 C Programming]$ cc bubble_sort.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter the limit 
+10
+enter the elements
+531
+1
+213
+42
+12
+32
+0
+15
+100
+1
+elements in sorted order: 
+0	1	1	12	15	32	42	100	213	531	
+[[Nidhin@dbcpc12 C Programming]$ 
+

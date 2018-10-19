@@ -1,0 +1,38 @@
+[Nidhin@dbcpc12 C Programming]$ cc linear_search.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+Enter the limmit of the array
+10
+enter the elements of the array
+12
+1
+0
+82
+4
+5
+1
+1
+28
+2
+enter the item to be searched
+28
+the item 28	 found at position 9
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+Enter the limmit of the array
+10
+enter the elements of the array
+55
+46
+4
+621
+6
+4
+2
+1
+2
+6
+enter the item to be searched
+2
+the item 2	 found at position 7
+the item 2	 found at position 9
+[Nidhin@dbcpc12 C Programming]$ 
+

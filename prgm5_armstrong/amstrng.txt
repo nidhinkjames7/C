@@ -1,0 +1,11 @@
+[Nidhin@dbcpc12 C Programming]$ cc amstrng.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+Enter the limit:1
+500
+1
+153
+370
+371
+407
+[Nidhin@dbcpc12 C Programming]$ 
+

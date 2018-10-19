@@ -1,0 +1,9 @@
+[Nidhin@dbcpc12 C Programming]$ cc perfectn.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+Enter the limits:1
+500
+6
+28
+496
+[Nidhin@dbcpc12 C Programming]$ 
+

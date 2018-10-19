@@ -1,0 +1,14 @@
+[Nidhin@dbcpc12 C Programming]$ vi union.c
+[Nidhin@dbcpc12 C Programming]$ cc union.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter the rollno
+101
+student rollno:101
+enter the student name
+Nidhin
+stuent name:Nidhin
+enter the student mark
+90
+studnet mark:90
+[Nidhin@dbcpc12 C Programming]$ 
+

@@ -1,0 +1,53 @@
+[Nidhin@dbcpc12 C Programming]$ vi calc.c
+[Nidhin@dbcpc12 C Programming]$ cc calc.c
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+1.addition
+2.substraction
+3.multiplication
+4.difference
+enter your choice
+1
+enter values for a and b
+10
+5
+the sum is 15
+do you want to continue...(1/0)
+1
+1.addition
+2.substraction
+3.multiplication
+4.difference
+enter your choice
+2
+enter values for a and b
+10
+5
+the difference is 5
+do you want to continue...(1/0)
+1
+1.addition
+2.substraction
+3.multiplication
+4.difference
+enter your choice
+3
+enter values for a and b
+10
+5
+the result is 50
+do you want to continue...(1/0)
+1
+1.addition
+2.substraction
+3.multiplication
+4.difference
+enter your choice
+4
+enter values for a and b
+10
+5
+the result is 2
+do you want to continue...(1/0)
+0
+[Nidhin@dbcpc12 C Programming]$ 
+

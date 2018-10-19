@@ -1,0 +1,12 @@
+[Nidhin@dbcpc12 C Programming]$ cc break.c -lm
+[Nidhin@dbcpc12 C Programming]$ ./a.out
+enter the limit
+3
+enter the number 
+4
+square root of 4 is 2.000000 
+9
+square root of 9 is 3.000000 
+36
+square root of 36 is 6.000000 
+
